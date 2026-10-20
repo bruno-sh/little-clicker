@@ -1,0 +1,10 @@
+[package]
+name = "little-clicker"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eframe = "0.37.0"
+egui = "0.37.0"
+enigo = "0.6.1"
+owo-colors = "4.4.0"
